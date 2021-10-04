@@ -1,0 +1,16 @@
+C:\Users\victo\dio\bin\Debug\net5.0\dio.exe
+C:\Users\victo\dio\bin\Debug\net5.0\dio.deps.json
+C:\Users\victo\dio\bin\Debug\net5.0\dio.runtimeconfig.json
+C:\Users\victo\dio\bin\Debug\net5.0\dio.runtimeconfig.dev.json
+C:\Users\victo\dio\bin\Debug\net5.0\dio.dll
+C:\Users\victo\dio\bin\Debug\net5.0\ref\dio.dll
+C:\Users\victo\dio\bin\Debug\net5.0\dio.pdb
+C:\Users\victo\dio\obj\Debug\net5.0\dio.csproj.AssemblyReference.cache
+C:\Users\victo\dio\obj\Debug\net5.0\dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\dio\obj\Debug\net5.0\dio.AssemblyInfoInputs.cache
+C:\Users\victo\dio\obj\Debug\net5.0\dio.AssemblyInfo.cs
+C:\Users\victo\dio\obj\Debug\net5.0\dio.csproj.CoreCompileInputs.cache
+C:\Users\victo\dio\obj\Debug\net5.0\dio.dll
+C:\Users\victo\dio\obj\Debug\net5.0\ref\dio.dll
+C:\Users\victo\dio\obj\Debug\net5.0\dio.pdb
+C:\Users\victo\dio\obj\Debug\net5.0\dio.genruntimeconfig.cache
